@@ -1,0 +1,16 @@
+ffmpeg = "/usr/bin/ffmpeg"
+
+[[src]]
+id = "1001"
+name = "sanpshot2"
+url = "https://public-1251679744.cos.ap-guangzhou.myqcloud.com/7447_1710322630.mp4"
+frequency = 60
+
+[[src]]
+id = "1002"
+name = "sanpshot"
+url = "https://public-1251679744.cos.ap-guangzhou.myqcloud.com/7447_1710322630.mp4"
+frequency = 90
+
+[storage]
+local = "/home/ubuntu/wwwroot/images"
